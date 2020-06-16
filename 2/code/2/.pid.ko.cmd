@@ -1,0 +1,1 @@
+cmd_/home/pan/桌面/osproj/2/2/pid.ko := ld -r -m elf_x86_64  -z max-page-size=0x200000 -T ./scripts/module-common.lds --build-id  -o /home/pan/桌面/osproj/2/2/pid.ko /home/pan/桌面/osproj/2/2/pid.o /home/pan/桌面/osproj/2/2/pid.mod.o ;  true

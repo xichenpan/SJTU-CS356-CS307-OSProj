@@ -1,0 +1,7 @@
+总用量 36
+-rwxrw-rw- 1 pan pan    13 5月  24 00:15 in.txt
+-rwx------ 1 pan pan    48 5月  24 00:32 out.txt
+-rwx------ 1 pan pan     0 5月  24 00:50 pipe.txt
+-rwxr-xr-x 1 pan pan 13368 5月  24 00:49 proj2-1
+-rwxrw-rw- 1 pan pan  4500 5月  24 00:49 proj2-1.c
+-rwxrw-rw- 1 pan pan  4040 5月  24 00:21 simple-shell.c

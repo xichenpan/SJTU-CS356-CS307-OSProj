@@ -1,0 +1,1 @@
+cmd_/home/pan/桌面/osproj/1/simple/simple.ko := ld -r -m elf_x86_64  -z max-page-size=0x200000 -T ./scripts/module-common.lds --build-id  -o /home/pan/桌面/osproj/1/simple/simple.ko /home/pan/桌面/osproj/1/simple/simple.o /home/pan/桌面/osproj/1/simple/simple.mod.o ;  true
