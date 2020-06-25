@@ -18,7 +18,6 @@
   * report.md为报告的markdown源文件
 * CS356.pdf文件为课程作业提交要求
 * introduction.pdf文件为CS307中涉及课程设计部分的slide
-* textbook.pdf文件为osc10e pdf version
 
 ### More Information
 更多本科课程作业参考可以访问上海交通大学计算机系本科作业参考索引[awesome-cs](https://github.com/SJTU-CSE/awesome-cs)
