@@ -13,7 +13,6 @@
 ### File
 * 1-8文件夹对应课程设计1-8个项目
   * code为代码和可执行文件
-  * project.pdf为osc10e中涉及到课程设计的pages
   * report.pdf为报告
   * report.md为报告的markdown源文件
 * CS356.pdf文件为课程作业提交要求
